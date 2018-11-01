@@ -1,4 +1,4 @@
-repl.lua
+repl.lua.
 ========
 
 **repl.lua** is a REPL for [mpv][1] input commands. It is displayed on the
